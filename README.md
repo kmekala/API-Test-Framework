@@ -47,4 +47,7 @@ Report will be automatically published here: [Latest-Execution-Report](https://h
 # API-Test-Framework
 
 https://www.fosstechnix.com/monitor-mongodb-with-prometheus-and-grafana/
+## Vulnerability testing with VamPI
+
+https://zerodayhacker.com/vampi-walkthrough/
 
